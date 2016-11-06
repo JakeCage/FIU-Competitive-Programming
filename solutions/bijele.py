@@ -1,0 +1,7 @@
+arr = list(map(int, input().split()))
+print(-arr[0]+1, end=" ")
+print(-arr[1]+1, end=" ")
+print(-arr[2]+2, end=" ")
+print(-arr[3]+2, end=" ")
+print(-arr[4]+2, end=" ")
+print(-arr[5]+8, end=" ")
